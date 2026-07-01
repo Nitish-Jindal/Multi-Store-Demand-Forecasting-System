@@ -331,17 +331,6 @@ scikit-learn==1.3.0
 ```
 
 
----
-
-## 👨‍💻 Author
-
-**M Dhanush Vardhan**
-
-- 🔗 [Kaggle Notebook](https://www.kaggle.com/code/mdhanushvardhan04/multi-series-forecasting)
-- 💼 LinkedIn: [Add your profile]
-- 📧 Email: [Add your email]
-
----
 
 ## 🙏 Acknowledgments
 
